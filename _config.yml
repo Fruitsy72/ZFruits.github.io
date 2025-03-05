@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Zachary Fruits
 email: fruitszachary@gmail.com
-description: >- My Projects
+description: My Projects
 twitter_username: fmanfruits
 github_username: Fruitsy72
 minimal_mistakes_skin: default
