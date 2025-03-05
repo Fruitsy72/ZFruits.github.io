@@ -1,7 +1,7 @@
 ---
 title: "Post: NOAA Publication"
 categories:
-  - Blog
+  - Research Paper
 tags:
   - Post Formats
   - standard
