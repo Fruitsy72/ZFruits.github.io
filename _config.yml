@@ -53,13 +53,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-seo-tag
 
 favicon: "assets/images/Screenshot (4).png"
 
 author:
   name   : "Zachary Fruits"
   avatar : "assets/images/IMG_5750.JPG"
+  avatar_size: large
   bio    : "My name is Zachary Fruits. On this webpage you can see some of the projects I have been associated with."
   links:
     - label: "LinkedIn"
