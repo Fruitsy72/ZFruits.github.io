@@ -59,9 +59,9 @@ author:
   avatar : "assets/images/IMG_5750.JPG"
   bio    : "My name is Zachary Fruits. On this webpage you can see some of the projects I have been associated with."
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/fmanfruits"
