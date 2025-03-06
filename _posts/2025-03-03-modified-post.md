@@ -1,7 +1,7 @@
 ---
 title: "Post: My Research at PNNL"
 categories:
-  - Information
+  - PNNL
 tags:
   - Post Formats
   - standard
