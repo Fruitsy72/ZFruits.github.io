@@ -14,6 +14,4 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem 'jekyll-favicon', '~> 1.1.0', group: :jekyll_plugins
-  gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
 end
