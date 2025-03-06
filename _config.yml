@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 favicon:
-  source: "assets/images/Favicon.png"
+  source: "assets/images/Favicon_800x800.png"
 
 author:
   name   : "Zachary Fruits"
