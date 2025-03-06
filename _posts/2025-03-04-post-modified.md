@@ -1,7 +1,7 @@
 ---
 title: "Post: My Research at Texas A&M"
 categories:
-  - Information
+  - TAMU
 tags:
   - Post Formats
   - standard
