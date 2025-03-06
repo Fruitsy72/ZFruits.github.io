@@ -1,7 +1,7 @@
 ---
 title: "Post: My Research at Flogistix"
 categories:
-  - Information
+  - Flogistix
 tags:
   - Post Formats
   - standard
