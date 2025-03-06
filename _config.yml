@@ -53,7 +53,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  -jeyll-seo-tag
+  - jeyll-seo-tag
 
 favicon: "assets/images/Favicon.png"
 
