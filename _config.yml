@@ -60,7 +60,7 @@ favicon:
 
 author:
   name   : "Zachary Fruits"
-  avatar : {{"assets/images/IMG_5750.JPG" | resize: "800x800>"}}
+  avatar : "assets/images/IMG_5750.JPG"
   bio    : "On this webpage you can see some of the projects I have been associated with."
   links:
     - label: "LinkedIn"
