@@ -1,7 +1,7 @@
 ---
 title: "Post: My Research at CIWRO"
 categories:
-  - Information
+  - CIWRO
 tags:
   - Post Formats
   - standard
