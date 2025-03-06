@@ -55,7 +55,8 @@ plugins:
   - jekyll-include-cache
   - jeyll-seo-tag
 
-favicon: "assets/images/Favicon.png"
+favicon:
+  source: "assets/images/Favicon.png"
 
 author:
   name   : "Zachary Fruits"
